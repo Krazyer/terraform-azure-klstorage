@@ -1,6 +1,6 @@
 module "storagemodule" {
   source = "./modules/storageaccount"
-  storageaccountname = "vishnustorageaccount"
+  storageaccountname = "rav1storageaccount"
   resourcegroupname = "TerraformRG"
 }
 
